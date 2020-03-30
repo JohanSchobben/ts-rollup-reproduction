@@ -1,0 +1,18 @@
+{
+  "name": "rollup-ts-error-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tslib": "^1.11.1",
+    "typescript": "^3.8.3",
+    "@rollup/plugin-typescript": "^4.0.0",
+    "rollup": "^2.3.0"
+  }
+}
